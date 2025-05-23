@@ -1,6 +1,9 @@
 # Hi there 👋, I'm Thapelo James Malifi
 
+![Profile Views](https://komarev.com/ghpvc/?username=Thapelo-malete&label=Profile%20Views&color=0e75b6&style=flat)
+
 Welcome to my GitHub profile! I'm a passionate and curious developer with a strong interest in solving real-world problems through technology.
+
 
 ## 👨‍💻 About Me
 
