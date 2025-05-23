@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋, I'm Thapelo James Malifi
 
-<!--
-**Thapelo-malete/Thapelo-malete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate and curious developer with a strong interest in solving real-world problems through technology.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I studied Mathematical Sciences majoring in Computer Science and Statistics.
+- 💡 I'm passionate about **software development** and **machine learning**.
+- 🌱 Currently learning and building projects in:
+  - Full-stack web development (React, Spring Boot)
+  - Mobile app development
+  - Real-time systems (WebSockets, chat apps)
+
+## 🛠️ Tech Stack
+
+- **Languages**: Java, JavaScript, Python, TypeScript, SQL
+- **Frontend**: React, Vite, HTML, CSS, TailwindCSS
+- **Backend**: Spring Boot, Flask
+- **Mobile**: React Native (learning)
+- **Database**: MySQL, PostgreSQL
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thapelo-malete&show_icons=true&theme=tokyonight)
+
+## 🌐 Let's Connect
+
+- LinkedIn: [https://www.linkedin.com/in/thapelo-malifi-746203212/]
+- Email: [thapelomalet066@gmail.com]
+
+Thanks for stopping by! 🚀 Feel free to explore my repositories and reach out if you'd like to collaborate!
